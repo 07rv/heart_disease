@@ -1,4 +1,4 @@
-# heart_disease
+# Heart_Disease
 
 Predicting heart-disease using machine learning
 # We're going to take the following approach:
