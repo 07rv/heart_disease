@@ -1,25 +1,25 @@
 # Heart_Disease
 
 Predicting heart-disease using machine learning
-# We're going to take the following approach:
+## We're going to take the following approach:
 1. Problem definition
 2. Data
 3. Evaluation
 4. Features
 5. Modelling
 
-# 1. Problem Definition
+## 1. Problem Definition
  In a statement,<br/>
  Given clinic parameter about a patient, can we predict whether or not they have heart disease?<br/><br/>
 
-# 2. Data
+## 2. Data
  The original data came from the Cleavaland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+disease
  There is also a version of it available on kaggle. https://www.kaggle.com/ronitf/heart-disease-uci <br/><br/>
 
-# 3. Evaluation
+## 3. Evaluation
  If we can reach 95% accuracy at predicting whether or not a patient has heart_disease during the proof of concept, we'll pursue the project.<br/><br/>
 
-# 4. Features
+## 4. Features
  This is where you'll get differnet information about each of the features in your data.<br/>
  Create data dictionary<br/>
  age - age in years<br/>
@@ -57,7 +57,7 @@ Predicting heart-disease using machine learning
      7: reversable defect: no proper blood movement when excercising<br/>
  target - have disease or not (1=yes, 0=no) (= the predicted attribute)<br/>
  
- # 5 Modelling
+ ## 5 Modelling
    Let's briefly go through each before we see them in action.<br/>
    Hyperparameter tuning - Each model you use has a series of dials you can turn to dictate how they perform. 
    Changing these values may increase or decrease modelperformance.<br/>
